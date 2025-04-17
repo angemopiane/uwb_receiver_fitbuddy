@@ -1,0 +1,12 @@
+&spi1 {
+    status = "okay";
+    cs-gpios = <&gpio0 25 GPIO_ACTIVE_LOW>;
+    dw3000@0 {
+        compatible = "decawave,dw3000";
+        reg = <0>;
+        spi-max-frequency = <16000000>;
+        irq-gpios = <&gpio0 19 GPIO_ACTIVE_HIGH>;
+        reset-gpios = <&gpio0 17 GPIO_ACTIVE_LOW>;
+        label = "DW3000";
+    };
+};

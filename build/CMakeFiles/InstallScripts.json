@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/ncs/v2.9.1/uwb_receiver2/build/cmake_install.cmake",
+		"C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/cmake_install.cmake",
+		"C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/cmake_install.cmake",
+		"C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake",
+		"C:/ncs/v2.9.1/uwb_receiver2/build/modules/nrf/cmake_install.cmake",
+		"C:/ncs/v2.9.1/uwb_receiver2/build/modules/mcuboot/cmake_install.cmake",
+		"C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake",
+		"C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

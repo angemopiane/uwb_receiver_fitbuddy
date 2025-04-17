@@ -1,0 +1,13 @@
+# Target labels
+ uwb_receiver2
+# Source files and their labels
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/CMakeFiles/uwb_receiver2
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/CMakeFiles/uwb_receiver2.rule
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/CMakeFiles/uwb_receiver2-complete.rule
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-build.rule
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-configure.rule
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-download.rule
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-install.rule
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-mkdir.rule
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-patch.rule
+C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-update.rule

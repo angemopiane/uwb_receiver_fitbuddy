@@ -1,0 +1,24 @@
+manifest:
+  version: "0.13"
+
+  remotes:
+    - name: ncs
+      url-base: https://github.com/nrfconnect
+
+  defaults:
+    remote: ncs
+
+  projects:
+    - name: nrf
+      path: nrf
+      revision: v2.9.1
+      import: true
+
+    - name: hal_qorvo
+      path: modules/hal/qorvo
+      revision: master
+      url: https://github.com/br101/zephyr-dw3000-decadriver.git
+
+  self:
+    path: .
+

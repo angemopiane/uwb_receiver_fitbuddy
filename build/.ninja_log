@@ -1,0 +1,11 @@
+# ninja log v5
+3	92	7651230394171846	_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-mkdir	643668a6afa37ca9
+3	92	7651230394171846	C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-mkdir	643668a6afa37ca9
+93	167	7651230394881966	_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-download	b3e24a812c971cf8
+93	167	7651230394881966	C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-download	b3e24a812c971cf8
+167	239	7651230395636888	_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-update	df7aaafce8314544
+167	239	7651230395636888	C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-update	df7aaafce8314544
+240	312	7651230396385223	_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-patch	4724bf7c1b2b5391
+240	312	7651230396385223	C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-patch	4724bf7c1b2b5391
+312	384	7651230397103624	_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-configure	e5df8c7e8cb11e1f
+312	384	7651230397103624	C:/ncs/v2.9.1/uwb_receiver2/build/_sysbuild/sysbuild/images/uwb_receiver2-prefix/src/uwb_receiver2-stamp/uwb_receiver2-configure	e5df8c7e8cb11e1f

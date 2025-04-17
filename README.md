@@ -26,6 +26,20 @@ uwb_receiver2/
 ├── west.yml                   # Dépendances du projet, incluant hal_qorvo
 └── README.md                  # Ce fichier
 ```
+## 🚀 Commandes importantes
+
+### 1. Cloner le dépôt avec les modules nécessaires
+
+bash
+west init -m https://github.com/ton-utilisateur/uwb_receiver_fitbuddy.git --mr main
+cd uwb_receiver_fitbuddy
+west update
+
+### 2. Nettoyer et recompiler le projet
+west build -b nrf52840dk_nrf52840 . --pristine=always
+
+### 3. Flasher le firmware sur la carte
+west flash
 
 ## ⚙️ Fonctionnalités principales
 
